@@ -1,0 +1,23 @@
+{
+  "name": "TODO-LIST-PROJECT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanadekel/TODO-LIST-PROJECT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanadekel/TODO-LIST-PROJECT/issues"
+  },
+  "homepage": "https://github.com/yanadekel/TODO-LIST-PROJECT#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
